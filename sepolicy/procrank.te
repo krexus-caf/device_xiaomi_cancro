@@ -1,2 +1,2 @@
 #============= procrank ==============
-allow procrank shell_data_file:file getattr;
+#allow procrank shell_data_file:file getattr;
