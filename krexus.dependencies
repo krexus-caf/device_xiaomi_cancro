@@ -1,6 +1,6 @@
 [
   {
-    "repository":  "mr-tweaker/krexus_cancro",
+    "repository":  "krexus-caf/device_xiaomi_cancro",
     "target_path": "device/xiaomi/cancro",
     "branch": "caf"
   },
